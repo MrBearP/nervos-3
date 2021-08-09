@@ -2,7 +2,7 @@
 
 1. A screenshot of the console output immediately after you have successfully issued a smart contract call.
 
-![alt text](https://github.com/MrBearP/nervos-3/blob/master/ckb-call-sc.png)
+![alt text](https://github.com/MrBearP/nervos-3/blob/main/call-ckb-sc.jpg)
 
 
 2. The transaction hash from the console output (in text format).
